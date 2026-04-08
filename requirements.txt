@@ -1,0 +1,41 @@
+# Niger Delta Oil Spill ML - Python Requirements
+# Install: pip install -r requirements.txt
+
+# ── Core Data Science ──────────────────────────────────────────────────────
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# ── Machine Learning ───────────────────────────────────────────────────────
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+imbalanced-learn>=0.11.0   # SMOTE oversampling
+
+# ── Model Interpretability ─────────────────────────────────────────────────
+shap>=0.43.0
+
+# ── Visualisation ──────────────────────────────────────────────────────────
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# ── Geospatial (optional but recommended) ─────────────────────────────────
+geopandas>=0.14.0
+shapely>=2.0.0
+pyproj>=3.6.0
+
+# ── Statistical Analysis ───────────────────────────────────────────────────
+statsmodels>=0.14.0        # STL decomposition, ACF/PACF
+
+# ── Notebooks ─────────────────────────────────────────────────────────────
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+nbconvert>=7.0.0
+
+# ── Model Persistence ─────────────────────────────────────────────────────
+joblib>=1.3.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────
+tqdm>=4.65.0               # Progress bars
+python-dateutil>=2.8.0
+pytz>=2023.3
