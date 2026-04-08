@@ -6,16 +6,14 @@
 
 ---
 
-## Paper
+
 
 **Title:** Quantifying Spill Containment Efficiency and Response Time Disparities in Niger Delta Oil Infrastructure Using Machine Learning: A Comparative Analysis of Operators and Facility Types
 
-**Target Journal:** Stochastic Environmental Research and Risk Assessment (Springer, IF approx. 4.2)
+
 
 **Status:** Under Review
 
-**Authors:** [Author 1](1), [Author 2](2), [Author 3](3)
-> (1) University of Port Harcourt, Nigeria | (2) Covenant University, Ota, Nigeria | (3) FUTO, Owerri, Nigeria
 
 ---
 
